@@ -5,4 +5,4 @@ O objetivo deste projeto era desenvolver uma pagina web, utilizando as tags mais
 
 Prompt: "Crie um documento que explique o que são e para que servem as tags do HTML a seguir, separando em tópicos  e utilizando uma linguajem que pessoas leigas em programação possam entender sobre o assunto, de exemplos sobre as tags:
 
-<h1> até <h6>, <p>, <mark>, <small>, <i>, <u>, <strong>, <ol>, <ul>, <li>, <a>, <hr>, <sub>, <sup>, <blockquote>, <font>, <del>, <abbr>"
+&lt;h1&gt; até &lt;h6&gt;, &lt;p&gt;, &lt;mark&gt;, &lt;small&gt;, &lt;i&gt;, &lt;u&gt;, &lt;strong&gt;, &lt;ol&gt;, &lt;ul&gt;, &lt;li&gt;, &lt;a&gt;, &lt;hr&gt;, &lt;sub&gt;, &lt;sup&gt;, &lt;blockquote&gt;, &lt;font&gt;, &lt;del&gt;, &lt;abbr&gt;"
